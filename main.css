@@ -30,13 +30,21 @@ a {
     background-color: #f6f6f6;
     height: 200px;
     display: flex;
+   padding-left: 15%;
+   padding-right: 15%;
   }
   
   .footer div {
     margin: auto;
   }
   
-  
+  .footer_btn{
+    color: black;
+    line-height: 26px;
+  }
+  .footer_btn:hover{
+    font-weight: 600;
+  }
   /* ヘッダー */
   .header {
     background-color: white;
@@ -211,7 +219,7 @@ a {
 }
 
 .tin{
-    height: 1100px;
+   
     margin-top: 50px;
     display: flex;
     flex-wrap: wrap;
