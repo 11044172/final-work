@@ -4,7 +4,7 @@ main{
 
 }
 .product{
-    display: flex;
+    display: inline-block;
     color:dimgrey;
     padding: 50px;
     margin-top: 90px;
@@ -13,7 +13,7 @@ main{
 }
 .img{
     margin-top: 20px;
-   
+   float: left;
     margin-right: 60px;
     height: 400px;
     width: 400px;
