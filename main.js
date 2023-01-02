@@ -7,5 +7,3 @@ ham.addEventListener('click', function () {
   nav.classList.toggle('active');
 
 });
-
-
